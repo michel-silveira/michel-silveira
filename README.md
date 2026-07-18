@@ -1,4 +1,4 @@
-### Hi 🙂
+### Hi 👋
 
 **My name is Michel Silveira. I am:**
 * 🎓 A bachelor's graduate in Software Engineering (Catholic University of Salvador)
